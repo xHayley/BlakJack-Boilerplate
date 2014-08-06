@@ -231,7 +231,7 @@ exports.groups = {
 	bySymbol: {
 		'~': {
 			id: 'admin',
-			name: "Administrator",
+			name: "Brigade Chief",
 			description: "They can do anything, like change what this message says",
 			root: true
 		},
